@@ -4,10 +4,10 @@
         {
             "type": "Feature",
             "properties": {
-                "ID_PROV": "35",
-                "ID_KAB": "3501",
-                "PROVINSI": "JAWA TIMUR",
-                "KABKOT": "KAB. Pacitan"
+                "id_prov": 35,
+                "id_kabkot": 3501,
+                "provinsi": "Jawa Timur",
+                "kabkot": "Kab. Pacitan"
             },
             "geometry": {
                 "type": "Polygon",
@@ -540,10 +540,10 @@
         {
             "type": "Feature",
             "properties": {
-                "ID_PROV": "35",
-                "ID_KAB": "3502",
-                "PROVINSI": "JAWA TIMUR",
-                "KABKOT": "KAB. Ponorogo"
+                "id_prov": 35,
+                "id_kabkot": 3502,
+                "provinsi": "Jawa Timur",
+                "kabkot": "Kab. Ponorogo"
             },
             "geometry": {
                 "type": "Polygon",
@@ -1068,10 +1068,10 @@
         {
             "type": "Feature",
             "properties": {
-                "ID_PROV": "35",
-                "ID_KAB": "3503",
-                "PROVINSI": "JAWA TIMUR",
-                "KABKOT": "KAB. Trenggalek"
+                "id_prov": 35,
+                "id_kabkot": 3503,
+                "provinsi": "Jawa Timur",
+                "kabkot": "Kab. Trenggalek"
             },
             "geometry": {
                 "type": "Polygon",
@@ -1684,10 +1684,10 @@
         {
             "type": "Feature",
             "properties": {
-                "ID_PROV": "35",
-                "ID_KAB": "3504",
-                "PROVINSI": "JAWA TIMUR",
-                "KABKOT": "KAB. Tulungagung"
+                "id_prov": 35,
+                "id_kabkot": 3504,
+                "provinsi": "Jawa Timur",
+                "kabkot": "Kab. Tulungagung"
             },
             "geometry": {
                 "type": "Polygon",
@@ -2204,10 +2204,10 @@
         {
             "type": "Feature",
             "properties": {
-                "ID_PROV": "35",
-                "ID_KAB": "3505",
-                "PROVINSI": "JAWA TIMUR",
-                "KABKOT": "KAB. Blitar"
+                "id_prov": 35,
+                "id_kabkot": 3505,
+                "provinsi": "Jawa Timur",
+                "kabkot": "Kab. Blitar"
             },
             "geometry": {
                 "type": "Polygon",
@@ -2862,10 +2862,10 @@
         {
             "type": "Feature",
             "properties": {
-                "ID_PROV": "35",
-                "ID_KAB": "3506",
-                "PROVINSI": "JAWA TIMUR",
-                "KABKOT": "KAB. Kediri"
+                "id_prov": 35,
+                "id_kabkot": 3506,
+                "provinsi": "Jawa Timur",
+                "kabkot": "Kab. Kediri"
             },
             "geometry": {
                 "type": "Polygon",
@@ -3480,10 +3480,10 @@
         {
             "type": "Feature",
             "properties": {
-                "ID_PROV": "35",
-                "ID_KAB": "3507",
-                "PROVINSI": "JAWA TIMUR",
-                "KABKOT": "KAB. Malang"
+                "id_prov": 35,
+                "id_kabkot": 3507,
+                "provinsi": "Jawa Timur",
+                "kabkot": "Kab. Malang"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -4624,10 +4624,10 @@
         {
             "type": "Feature",
             "properties": {
-                "ID_PROV": "35",
-                "ID_KAB": "3508",
-                "PROVINSI": "JAWA TIMUR",
-                "KABKOT": "KAB. Lumajang"
+                "id_prov": 35,
+                "id_kabkot": 3508,
+                "provinsi": "Jawa Timur",
+                "kabkot": "Kab. Lumajang"
             },
             "geometry": {
                 "type": "Polygon",
@@ -5088,10 +5088,10 @@
         {
             "type": "Feature",
             "properties": {
-                "ID_PROV": "35",
-                "ID_KAB": "3509",
-                "PROVINSI": "JAWA TIMUR",
-                "KABKOT": "KAB. Jember"
+                "id_prov": 35,
+                "id_kabkot": 3509,
+                "provinsi": "Jawa Timur",
+                "kabkot": "Kab. Jember"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -5986,10 +5986,10 @@
         {
             "type": "Feature",
             "properties": {
-                "ID_PROV": "35",
-                "ID_KAB": "3510",
-                "PROVINSI": "JAWA TIMUR",
-                "KABKOT": "KAB. Banyuwangi"
+                "id_prov": 35,
+                "id_kabkot": 3510,
+                "provinsi": "Jawa Timur",
+                "kabkot": "Kab. Banyuwangi"
             },
             "geometry": {
                 "type": "Polygon",
@@ -6914,10 +6914,10 @@
         {
             "type": "Feature",
             "properties": {
-                "ID_PROV": "35",
-                "ID_KAB": "3511",
-                "PROVINSI": "JAWA TIMUR",
-                "KABKOT": "KAB. Bondowoso"
+                "id_prov": 35,
+                "id_kabkot": 3511,
+                "provinsi": "Jawa Timur",
+                "kabkot": "Kab. Bondowoso"
             },
             "geometry": {
                 "type": "Polygon",
@@ -7466,10 +7466,10 @@
         {
             "type": "Feature",
             "properties": {
-                "ID_PROV": "35",
-                "ID_KAB": "3512",
-                "PROVINSI": "JAWA TIMUR",
-                "KABKOT": "KAB. Situbondo"
+                "id_prov": 35,
+                "id_kabkot": 3512,
+                "provinsi": "Jawa Timur",
+                "kabkot": "Kab. Situbondo"
             },
             "geometry": {
                 "type": "Polygon",
@@ -8202,10 +8202,10 @@
         {
             "type": "Feature",
             "properties": {
-                "ID_PROV": "35",
-                "ID_KAB": "3513",
-                "PROVINSI": "JAWA TIMUR",
-                "KABKOT": "KAB. Probolinggo"
+                "id_prov": 35,
+                "id_kabkot": 3513,
+                "provinsi": "Jawa Timur",
+                "kabkot": "Kab. Probolinggo"
             },
             "geometry": {
                 "type": "Polygon",
@@ -8881,11 +8881,11 @@
         },
         {
             "type": "Feature",
-            "ID_PROV": "35",
-            "ID_KAB": "3514",
+            "id_prov": 35,
+            "id_kabkot": 3514,
             "properties": {
-                "PROVINSI": "JAWA TIMUR",
-                "KABKOT": "KAB. Pasuruan"
+                "provinsi": "Jawa Timur",
+                "kabkot": "Kab. Pasuruan"
             },
             "geometry": {
                 "type": "Polygon",
@@ -9370,10 +9370,10 @@
         {
             "type": "Feature",
             "properties": {
-                "ID_PROV": "35",
-                "ID_KAB": "3515",
-                "PROVINSI": "JAWA TIMUR",
-                "KABKOT": "KAB. Sidoarjo"
+                "id_prov": 35,
+                "id_kabkot": 3515,
+                "provinsi": "Jawa Timur",
+                "kabkot": "Kab. Sidoarjo"
             },
             "geometry": {
                 "type": "Polygon",
@@ -9702,10 +9702,10 @@
         {
             "type": "Feature",
             "properties": {
-                "ID_PROV": "35",
-                "ID_KAB": "3516",
-                "PROVINSI": "JAWA TIMUR",
-                "KABKOT": "KAB. Mojokerto"
+                "id_prov": 35,
+                "id_kabkot": 3516,
+                "provinsi": "Jawa Timur",
+                "kabkot": "Kab. Mojokerto"
             },
             "geometry": {
                 "type": "Polygon",
@@ -10204,10 +10204,10 @@
         {
             "type": "Feature",
             "properties": {
-                "ID_PROV": "35",
-                "ID_KAB": "3517",
-                "PROVINSI": "JAWA TIMUR",
-                "KABKOT": "KAB. Jombang"
+                "id_prov": 35,
+                "id_kabkot": 3517,
+                "provinsi": "Jawa Timur",
+                "kabkot": "Kab. Jombang"
             },
             "geometry": {
                 "type": "Polygon",
@@ -10660,10 +10660,10 @@
         {
             "type": "Feature",
             "properties": {
-                "ID_PROV": "35",
-                "ID_KAB": "3518",
-                "PROVINSI": "JAWA TIMUR",
-                "KABKOT": "KAB. Nganjuk"
+                "id_prov": 35,
+                "id_kabkot": 3518,
+                "provinsi": "Jawa Timur",
+                "kabkot": "Kab. Nganjuk"
             },
             "geometry": {
                 "type": "Polygon",
@@ -11144,10 +11144,10 @@
         {
             "type": "Feature",
             "properties": {
-                "ID_PROV": "35",
-                "ID_KAB": "3519",
-                "PROVINSI": "JAWA TIMUR",
-                "KABKOT": "KAB. Madiun"
+                "id_prov": 35,
+                "id_kabkot": 3519,
+                "provinsi": "Jawa Timur",
+                "kabkot": "Kab. Madiun"
             },
             "geometry": {
                 "type": "Polygon",
@@ -11676,10 +11676,10 @@
         {
             "type": "Feature",
             "properties": {
-                "ID_PROV": "35",
-                "ID_KAB": "3520",
-                "PROVINSI": "JAWA TIMUR",
-                "KABKOT": "KAB. Magetan"
+                "id_prov": 35,
+                "id_kabkot": 3520,
+                "provinsi": "Jawa Timur",
+                "kabkot": "Kab. Magetan"
             },
             "geometry": {
                 "type": "Polygon",
@@ -12040,10 +12040,10 @@
         {
             "type": "Feature",
             "properties": {
-                "ID_PROV": "35",
-                "ID_KAB": "3521",
-                "PROVINSI": "JAWA TIMUR",
-                "KABKOT": "KAB. Ngawi"
+                "id_prov": 35,
+                "id_kabkot": 3521,
+                "provinsi": "Jawa Timur",
+                "kabkot": "Kab. Ngawi"
             },
             "geometry": {
                 "type": "Polygon",
@@ -12508,10 +12508,10 @@
         {
             "type": "Feature",
             "properties": {
-                "ID_PROV": "35",
-                "ID_KAB": "3522",
-                "PROVINSI": "JAWA TIMUR",
-                "KABKOT": "KAB. Bojonegoro"
+                "id_prov": 35,
+                "id_kabkot": 3522,
+                "provinsi": "Jawa Timur",
+                "kabkot": "Kab. Bojonegoro"
             },
             "geometry": {
                 "type": "Polygon",
@@ -13184,10 +13184,10 @@
         {
             "type": "Feature",
             "properties": {
-                "ID_PROV": "35",
-                "ID_KAB": "3523",
-                "PROVINSI": "JAWA TIMUR",
-                "KABKOT": "KAB. Tuban"
+                "id_prov": 35,
+                "id_kabkot": 3523,
+                "provinsi": "Jawa Timur",
+                "kabkot": "Kab. Tuban"
             },
             "geometry": {
                 "type": "Polygon",
@@ -13740,10 +13740,10 @@
         {
             "type": "Feature",
             "properties": {
-                "ID_PROV": "35",
-                "ID_KAB": "3524",
-                "PROVINSI": "JAWA TIMUR",
-                "KABKOT": "KAB. Lamongan"
+                "id_prov": 35,
+                "id_kabkot": 3524,
+                "provinsi": "Jawa Timur",
+                "kabkot": "Kab. Lamongan"
             },
             "geometry": {
                 "type": "Polygon",
@@ -14360,10 +14360,10 @@
         {
             "type": "Feature",
             "properties": {
-                "ID_PROV": "35",
-                "ID_KAB": "3525",
-                "PROVINSI": "JAWA TIMUR",
-                "KABKOT": "KAB. Gresik"
+                "id_prov": 35,
+                "id_kabkot": 3525,
+                "provinsi": "Jawa Timur",
+                "kabkot": "Kab. Gresik"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -15174,10 +15174,10 @@
         {
             "type": "Feature",
             "properties": {
-                "ID_PROV": "35",
-                "ID_KAB": "3526",
-                "PROVINSI": "JAWA TIMUR",
-                "KABKOT": "KAB. Bangkalan"
+                "id_prov": 35,
+                "id_kabkot": 3526,
+                "provinsi": "Jawa Timur",
+                "kabkot": "Kab. Bangkalan"
             },
             "geometry": {
                 "type": "Polygon",
@@ -15634,10 +15634,10 @@
         {
             "type": "Feature",
             "properties": {
-                "ID_PROV": "35",
-                "ID_KAB": "3527",
-                "PROVINSI": "JAWA TIMUR",
-                "KABKOT": "KAB. Sampang"
+                "id_prov": 35,
+                "id_kabkot": 3527,
+                "provinsi": "Jawa Timur",
+                "kabkot": "Kab. Sampang"
             },
             "geometry": {
                 "type": "Polygon",
@@ -16090,10 +16090,10 @@
         {
             "type": "Feature",
             "properties": {
-                "ID_PROV": "35",
-                "ID_KAB": "3528",
-                "PROVINSI": "JAWA TIMUR",
-                "KABKOT": "KAB. Pamekasan"
+                "id_prov": 35,
+                "id_kabkot": 3528,
+                "provinsi": "Jawa Timur",
+                "kabkot": "Kab. Pamekasan"
             },
             "geometry": {
                 "type": "Polygon",
@@ -16426,10 +16426,10 @@
         {
             "type": "Feature",
             "properties": {
-                "ID_PROV": "35",
-                "ID_KAB": "3529",
-                "PROVINSI": "JAWA TIMUR",
-                "KABKOT": "KAB. Sumenep"
+                "id_prov": 35,
+                "id_kabkot": 3529,
+                "provinsi": "Jawa Timur",
+                "kabkot": "Kab. Sumenep"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -18468,10 +18468,10 @@
         {
             "type": "Feature",
             "properties": {
-                "ID_PROV": "35",
-                "ID_KAB": "3571",
-                "PROVINSI": "JAWA TIMUR",
-                "KABKOT": "KOTA Kediri"
+                "id_prov": 35,
+                "id_kabkot": 3571,
+                "provinsi": "Jawa Timur",
+                "kabkot": "Kota Kediri"
             },
             "geometry": {
                 "type": "Polygon",
@@ -18600,10 +18600,10 @@
         {
             "type": "Feature",
             "properties": {
-                "ID_PROV": "35",
-                "ID_KAB": "3572",
-                "PROVINSI": "JAWA TIMUR",
-                "KABKOT": "KOTA Blitar"
+                "id_prov": 35,
+                "id_kabkot": 3572,
+                "provinsi": "Jawa Timur",
+                "kabkot": "Kota Blitar"
             },
             "geometry": {
                 "type": "Polygon",
@@ -18716,10 +18716,10 @@
         {
             "type": "Feature",
             "properties": {
-                "ID_PROV": "35",
-                "ID_KAB": "3573",
-                "PROVINSI": "JAWA TIMUR",
-                "KABKOT": "KOTA Malang"
+                "id_prov": 35,
+                "id_kabkot": 3573,
+                "provinsi": "Jawa Timur",
+                "kabkot": "Kota Malang"
             },
             "geometry": {
                 "type": "Polygon",
@@ -18868,10 +18868,10 @@
         {
             "type": "Feature",
             "properties": {
-                "ID_PROV": "35",
-                "ID_KAB": "3574",
-                "PROVINSI": "JAWA TIMUR",
-                "KABKOT": "KOTA Probolinggo"
+                "id_prov": 35,
+                "id_kabkot": 3574,
+                "provinsi": "Jawa Timur",
+                "kabkot": "Kota Probolinggo"
             },
             "geometry": {
                 "type": "Polygon",
@@ -18960,10 +18960,10 @@
         {
             "type": "Feature",
             "properties": {
-                "ID_PROV": "35",
-                "ID_KAB": "3575",
-                "PROVINSI": "JAWA TIMUR",
-                "KABKOT": "KOTA Pasuruan"
+                "id_prov": 35,
+                "id_kabkot": 3575,
+                "provinsi": "Jawa Timur",
+                "kabkot": "Kota Pasuruan"
             },
             "geometry": {
                 "type": "Polygon",
@@ -19052,10 +19052,10 @@
         {
             "type": "Feature",
             "properties": {
-                "ID_PROV": "35",
-                "ID_KAB": "3576",
-                "PROVINSI": "JAWA TIMUR",
-                "KABKOT": "KOTA Mojokerto"
+                "id_prov": 35,
+                "id_kabkot": 3576,
+                "provinsi": "Jawa Timur",
+                "kabkot": "Kota Mojokerto"
             },
             "geometry": {
                 "type": "Polygon",
@@ -19132,10 +19132,10 @@
         {
             "type": "Feature",
             "properties": {
-                "ID_PROV": "35",
-                "ID_KAB": "3577",
-                "PROVINSI": "JAWA TIMUR",
-                "KABKOT": "KOTA Madiun"
+                "id_prov": 35,
+                "id_kabkot": 35,
+                "provinsi": "Jawa Timur",
+                "kabkot": "Kota Madiun"
             },
             "geometry": {
                 "type": "Polygon",
@@ -19232,10 +19232,10 @@
         {
             "type": "Feature",
             "properties": {
-                "ID_PROV": "35",
-                "ID_KAB": "3578",
-                "PROVINSI": "JAWA TIMUR",
-                "KABKOT": "KOTA Surabaya"
+                "id_prov": 35,
+                "id_kabkot": 3578,
+                "provinsi": "Jawa Timur",
+                "kabkot": "Kota Surabaya"
             },
             "geometry": {
                 "type": "Polygon",
@@ -19456,10 +19456,10 @@
         {
             "type": "Feature",
             "properties": {
-                "ID_PROV": "35",
-                "ID_KAB": "3579",
-                "PROVINSI": "JAWA TIMUR",
-                "KABKOT": "KOTA Batu"
+                "id_prov": 35,
+                "id_kabkot": 3579,
+                "provinsi": "Jawa Timur",
+                "kabkot": "Kota Batu"
             },
             "geometry": {
                 "type": "Polygon",
